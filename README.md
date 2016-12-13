@@ -16,4 +16,4 @@ It is assumed that the user has properly installed the error correction programs
 
 If you find this work useful, please cite our paper:
 
-Molnar et. al. [Correcting Illumina data](http://bib.oxfordjournals.org/content/16/4/588) Bioinformatics, 2014
+M. Molnar, L. Ilie [Correcting Illumina data](http://bib.oxfordjournals.org/content/16/4/588) Bioinformatics, 2014
